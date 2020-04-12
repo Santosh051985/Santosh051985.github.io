@@ -19,3 +19,18 @@ social:
     - https://www.facebook.com/ajoshi1995
     - https://www.linkedin.com/in/santoshkumar85/
 
+paginate: 5
+permalink: /:categories/:title
+# Build settings
+markdown: kramdown
+# kramdown :
+#   math_engine : mathjax
+#highlighter: pygments
+aboutPage: true
+
+analytics :
+  provider : google
+  google :
+      tracking_id : 'UA-76699034-1'
+
+
