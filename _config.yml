@@ -1,3 +1,21 @@
 theme: jekyll-theme-architect
-title: Welcome to  Santosh Home Pages 
+title: Welcome to  Santosh Kumar
 description: feel free to make bookmark this to keep an eye on my projects update.
+email: dssant@gmail.com
+
+# the base hostname & protocol for your site
+twitter_username: santosh051985
+twitter:
+  username: santosh051985
+
+facebook:
+  app_id: 1605837139430627
+  admins: ajoshi1995
+
+social:
+  name: Achyut Joshi
+  links:
+    - https://twitter.com/santosh051985
+    - https://www.facebook.com/ajoshi1995
+    - https://www.linkedin.com/in/santoshkumar85/
+
