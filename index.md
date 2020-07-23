@@ -1,4 +1,4 @@
-## Welcome to GitHub Santosh Pages
+## Welcome to GitHub Santosh  Kumar Pages
 
 You can use the [editor on GitHub](https://github.com/Santosh051985/Santosh051985.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
