@@ -2,7 +2,8 @@ theme: jekyll-theme-architect
 title: Welcome to  Santosh Kumar
 description: feel free to make bookmark this to keep an eye on my projects update.
 email: dssant@gmail.com
-
+name: Hank Quinlan, Horrible Cop
+	markdown: kramdown
 # the base hostname & protocol for your site
 twitter_username: santosh051985
 twitter:
@@ -11,7 +12,7 @@ twitter:
 
 
 social:
-  name: Achyut Joshi
+  name: Santosh Kumar
   links:
     - https://twitter.com/santosh051985
     - https://www.facebook.com/ajoshi1995
